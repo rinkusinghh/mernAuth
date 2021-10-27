@@ -1,0 +1,7 @@
+.container{ 
+    background-color: orange;
+}
+.text_capital{
+    text-transform: capitalize;
+    color: rgb(146, 24, 194);
+}
