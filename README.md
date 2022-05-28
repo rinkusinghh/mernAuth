@@ -1,1 +1,1 @@
-# MERN Authentication!
+# MERN Authentication! Project
